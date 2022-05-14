@@ -1,0 +1,10 @@
+C:\Users\CYH\source\repos\Flappy Rose\Flappy Rose\bin\Debug\Flappy Rose.exe.config
+C:\Users\CYH\source\repos\Flappy Rose\Flappy Rose\bin\Debug\Flappy Rose.exe
+C:\Users\CYH\source\repos\Flappy Rose\Flappy Rose\bin\Debug\Flappy Rose.pdb
+C:\Users\CYH\source\repos\Flappy Rose\Flappy Rose\obj\Debug\Flappy Rose.csproj.AssemblyReference.cache
+C:\Users\CYH\source\repos\Flappy Rose\Flappy Rose\obj\Debug\Flappy_Rose.Form1.resources
+C:\Users\CYH\source\repos\Flappy Rose\Flappy Rose\obj\Debug\Flappy_Rose.Properties.Resources.resources
+C:\Users\CYH\source\repos\Flappy Rose\Flappy Rose\obj\Debug\Flappy Rose.csproj.GenerateResource.cache
+C:\Users\CYH\source\repos\Flappy Rose\Flappy Rose\obj\Debug\Flappy Rose.csproj.CoreCompileInputs.cache
+C:\Users\CYH\source\repos\Flappy Rose\Flappy Rose\obj\Debug\Flappy Rose.exe
+C:\Users\CYH\source\repos\Flappy Rose\Flappy Rose\obj\Debug\Flappy Rose.pdb
